@@ -17,6 +17,6 @@ A custom Traffic Sign Recognition dataset was used to train and evaluate the Inc
 
 The Inception model achieves an accuracy of over 97%, making it a highly effective tool for traffic sign detection.
 
-# Web Application Interface: 
-
+# Application Interface: 
+<br>
 <img align="right" alt="interface" width="1000" src="https://i.ibb.co/w0Lw6FV/Screenshot-1.png">
